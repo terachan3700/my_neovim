@@ -7,3 +7,6 @@ repo = 'leico/autodate.vim'
 
 [[plugins]]
 repo = 'scrooloose/nerdtree'
+
+[[plugins]]
+repo = 'tpope/vim-surround'
